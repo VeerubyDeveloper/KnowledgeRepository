@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/AudioMixer.unity
+- path: Assets/Scenes/CubeGrabbing.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
