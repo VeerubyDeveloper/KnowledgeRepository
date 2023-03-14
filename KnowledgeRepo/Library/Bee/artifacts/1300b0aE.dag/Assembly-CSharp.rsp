@@ -535,6 +535,8 @@
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiSceneMenu.cs"
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs"
 "Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs"
+"Assets/Scripts/CollectingTargets.cs"
+"Assets/SimpleCollectiblesPack/SimpleCollectibleScript.cs"
 -langversion:9.0
 
 /deterministic
