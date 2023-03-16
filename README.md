@@ -4,6 +4,6 @@ The objective is to add UI elements to the canvas so that they are fully functio
 
 So, let's get started and make your virtual reality experience a reality!
 
-Video - 
+Video - https://youtu.be/LauPf7aYEt8
 
-Package - 
+Package - https://veerubytech.sharepoint.com/:u:/s/VeeRubyTechnologiesPvtLtd/EbYD1D-xfaVAqoqG_mQXtVYBcTXA1QmD41UUwyIfeD7T6g?e=AU1KaJ
