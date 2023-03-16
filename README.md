@@ -23,4 +23,4 @@ Guidelines
   3. Unity package links are provided in readme file of branches.
   4. Makes sure to push the updates then and there with appropriate description.
 
-Knowledge Repo - https://veerubytech-my.sharepoint.com/:x:/g/personal/admin_veeruby_com/EVHwX_kMl01Ht9fIcg78A_ABlifqZMXmAQv0rloKKJsZuQ?e=azbIro
+Knowledge Repo sheet - https://veerubytech-my.sharepoint.com/:x:/g/personal/admin_veeruby_com/EVHwX_kMl01Ht9fIcg78A_ABlifqZMXmAQv0rloKKJsZuQ?e=azbIro
