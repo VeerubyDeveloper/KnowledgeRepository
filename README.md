@@ -1,7 +1,7 @@
 # KnowledgeRepository
 
-The objective here is to first import a city environment into Unity. This means bringing in all the necessary assets and models to create a realistic and immersive cityscape. So, let's get started and see what kind of immersive cityscape you can create!
+The objective of this project is to create an immersive and challenging game experience that combines the use of hand controllers with the realism of 3D objects and movement restrictions. The player will be able to grab, move, and manipulate these objects using the controllers, adding an extra layer of interactivity and realism to the game. So, put on your Oculus headset and let's get started on creating a unique and exciting game! \
 
 Video - 
 
-Package - 
+Package - https://veerubytech.sharepoint.com/:u:/s/VeeRubyTechnologiesPvtLtd/EZa0664vsDZPkWWaPFKko8UBpp4_cE4ny4nMN_snm_EHhQ?e=JXifDT
