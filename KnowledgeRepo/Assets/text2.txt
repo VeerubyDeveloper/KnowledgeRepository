@@ -1,0 +1,1 @@
+{"player":[{"name":"hi","Health":10000,"mana":56},{"name":"Ciao","Health":200,"mana":10},{"name":"Voila","Health":30,"mana":10}]}
