@@ -1,4 +1,4 @@
-# KnowledgeRepository 
+# KnowledgeRepository - Types of Lights
 
 Its always fun to work with lights and learning about lighting. Here is a basic types of lights in unity in this repo.
 
