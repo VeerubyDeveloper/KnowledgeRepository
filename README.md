@@ -5,13 +5,13 @@ Objective - One Stop place to learn more about immersive technologies like AR, V
 Main Topics - 
   We offer a wide range of topics related to immersive technologies, including Android, iOS, Oculus, HoloLens, and Metaverse. In addition, we cover general topics related to immersive technologies, as well as the emerging concept of the metaverse. With our comprehensive coverage of these topics, you'll be well-prepared to dive into the exciting world of immersive technology development!
   
-  1. General in Unity
+  1. General in Unity -> https://www.youtube.com/playlist?list=PLjeamhGWk2tKUMTt8A-LqLMWAstg_8cVn
   
   2. Android
   
   3. iOS
   
-  4. Oculus - VR
+  4. Oculus - VR -> https://www.youtube.com/playlist?list=PLjeamhGWk2tI-Lq29XnDb9jr7u8xn0_P7
   
   5. Hololens - MR
   
