@@ -1,5 +1,7 @@
 # KnowledgeRepository 
 
+Note : All the Knowledge repo packages, videos and repo is accesible by Knowledge repo ID
+
 Objective - One Stop place to learn more about immersive technologies like AR, VR, and MR. Check out our knowledge repository, which offers tutorial videos covering all the necessary information and packages related to development. Our resource provides a comprehensive introduction to the topic, including practical insights on projects, platforms, and various relevant topics. By exploring this repository, you'll have the chance to deepen your understanding of immersive technologies and be well-prepared to start developing your own AR, VR, or MR applications!
 
 Main Topics - 
