@@ -9,15 +9,15 @@ Main Topics -
   
   1. General in Unity -> https://www.youtube.com/playlist?list=PLjeamhGWk2tKUMTt8A-LqLMWAstg_8cVn
   
-  2. Android
+  2. Android -> https://www.youtube.com/playlist?list=PLjeamhGWk2tLx3FoLHHwnflF7x0fX5Rwu
   
-  3. iOS
+  3. iOS -> https://www.youtube.com/playlist?list=PLjeamhGWk2tKX8SjnGR0YOXTTc8ixNB6Z
   
-  4. Oculus - VR -> https://www.youtube.com/playlist?list=PLjeamhGWk2tI-Lq29XnDb9jr7u8xn0_P7
+  4. Oculus - VR -> https://www.youtube.com/playlist?list=PLjeamhGWk2tLUTlSeExFYld0gmA9GvvMi
   
-  5. Hololens - MR
+  5. Hololens - MR -> https://www.youtube.com/playlist?list=PLjeamhGWk2tJ66p-s1IySUcDC1OLTDFSf
   
-  6. Metaverse
+  6. Metaverse -> https://www.youtube.com/playlist?list=PLjeamhGWk2tJvZj_xeEi_AyWOQPen3l8d
   
 Guidelines - 
   1. First things first, always make sure to clone the branch before you start editing. This ensures that you have a backup of the original code in case anything goes wrong.
