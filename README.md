@@ -19,7 +19,7 @@ Main Topics -
   
   6. Metaverse -> https://www.youtube.com/playlist?list=PLjeamhGWk2tJvZj_xeEi_AyWOQPen3l8d
   
-Guidelines - 
+Guidelines - https://docs.google.com/spreadsheets/d/16tqxz3-3QUDerEJUDMCKd65e_i75LoC2a9Jf8Zx2JbI/edit?usp=sharing
   1. First things first, always make sure to clone the branch before you start editing. This ensures that you have a backup of the original code in case anything goes wrong.
   
   2. We understand that sometimes it's easier to follow along with a video reference, which is why we've included one for the branches. This way, you can get a better understanding of what you need to do and how to do it.
@@ -29,3 +29,5 @@ Guidelines -
   4. Makes sure to push the updates then and there with appropriate description.
 
 Knowledge Repo sheet - https://veerubytech-my.sharepoint.com/:x:/g/personal/admin_veeruby_com/EVHwX_kMl01Ht9fIcg78A_ABlifqZMXmAQv0rloKKJsZuQ?e=azbIro
+
+Unity Architecture - https://docs.google.com/document/d/1zSagtDJ5sOIK0Yh8ux8wSecY5TLH-CwC-OLRcsPJVV8/edit?usp=sharing
