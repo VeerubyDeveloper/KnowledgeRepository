@@ -31,3 +31,5 @@ Guidelines - https://docs.google.com/document/d/196NP3I6VhSwcDPsRYLDzPjGvEpuCZ8F
 Knowledge Repo sheet - https://veerubytech-my.sharepoint.com/:x:/g/personal/admin_veeruby_com/EVHwX_kMl01Ht9fIcg78A_ABlifqZMXmAQv0rloKKJsZuQ?e=azbIro
 
 Unity Architecture - https://docs.google.com/document/d/1zSagtDJ5sOIK0Yh8ux8wSecY5TLH-CwC-OLRcsPJVV8/edit?usp=sharing
+
+Unity Architecture video - https://youtu.be/nUo7LlXznHk
