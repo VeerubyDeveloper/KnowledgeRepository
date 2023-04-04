@@ -19,7 +19,7 @@ Main Topics -
   
   6. Metaverse -> https://www.youtube.com/playlist?list=PLjeamhGWk2tJvZj_xeEi_AyWOQPen3l8d
   
-Guidelines - https://docs.google.com/spreadsheets/d/16tqxz3-3QUDerEJUDMCKd65e_i75LoC2a9Jf8Zx2JbI/edit?usp=sharing
+Guidelines - https://docs.google.com/document/d/196NP3I6VhSwcDPsRYLDzPjGvEpuCZ8FeXMIzzPwLyd8/edit?usp=sharing
   1. First things first, always make sure to clone the branch before you start editing. This ensures that you have a backup of the original code in case anything goes wrong.
   
   2. We understand that sometimes it's easier to follow along with a video reference, which is why we've included one for the branches. This way, you can get a better understanding of what you need to do and how to do it.
