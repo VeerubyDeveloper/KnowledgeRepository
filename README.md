@@ -33,3 +33,5 @@ Knowledge Repo sheet - https://veerubytech-my.sharepoint.com/:x:/g/personal/admi
 Unity Architecture - https://docs.google.com/document/d/1zSagtDJ5sOIK0Yh8ux8wSecY5TLH-CwC-OLRcsPJVV8/edit?usp=sharing
 
 Unity Architecture video - https://youtu.be/nUo7LlXznHk
+
+Plan for site - https://veerubytech.sharepoint.com/:i:/s/VeeRubyTechnologiesPvtLtd/ERrEEqWPlIxAn9vSjOyqQikBNVfQGDUNTUX7W4DipbZXeA?e=oq4LwK
